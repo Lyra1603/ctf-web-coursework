@@ -1,0 +1,3 @@
+Thử nghiệm số 3(SC- T03)
+- Mục đích: thử Base64 để hiểu dòng  "return base64_decode($content);" làm gì
+- Kết quả: Base64 thay đổi cách biểu diễn dữ liệu và có thể giải mã ngược lại; nó không giữ bí mật dữ liệu(file SC_T03_base64.png)

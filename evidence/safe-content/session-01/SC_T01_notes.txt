@@ -1,0 +1,5 @@
+- Thử nghiệm số 1 (SC-T01)
+- Mục đích: xem form gửi URL thế nào và ứng dụng trả về gì
+- Đầu vào khi điền form trên web: http://example.com
+- Request dùng GET, có tham số url, gửi tới localhost:18080 --> Kết quả: Response trả HTTP 200 và trang HTML chứa form
+- Cần tìm hiểu: Backend có đọc URL đã nhập không ?

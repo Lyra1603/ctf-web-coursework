@@ -1,0 +1,4 @@
+Thử nghiệm số 2(SC-T02)
+- Mục đích: kiểm tra cách PHP tách host và so sánh với localhost
+- Kết quả: example.com → false, localhost → true, 127.0.0.1 → false
+--> Hàm kiểm tra chuỗi hostname, không xem 127.0.0.1 là tương đương localhost. Lệnh chỉ phân tích chuỗi, không truy cập các URL

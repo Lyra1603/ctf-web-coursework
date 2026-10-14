@@ -1,0 +1,14 @@
+# File tạm và cache
+*.tmp
+*.swp
+~$*
+__pycache__/
+source/safe-content/templates_c/
+
+# File môi trường lớn
+*.tar
+*.tar.gz
+
+# Cấu hình riêng
+.env
+.env.*

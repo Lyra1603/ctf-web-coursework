@@ -1,0 +1,11 @@
+Buổi 1:
+| Mục | Trạng thái cuối buổi |
+|---|---|
+| Môi trường | Container `ctf-safe-content` chạy được tại `http://localhost:18080/` |
+| Mã nguồn | `/home/ducanh/ctf-web-project/source/safe-content` |
+| SC-T01 | Đã lưu request, response và ghi chú |
+| SC-T02 | Đã kiểm chứng so sánh hostname |
+| SC-T03 | Điền “Xong” sau khi chạy và lưu kết quả Base64 |
+| Báo cáo | Bằng chứng và ghi chú đã có; phần Word chưa xác nhận hoàn thành |
+| Chưa làm | Kiểm chứng bước đọc nội dung, giải challenge, sửa lỗi |
+| Buổi tiếp theo | Tìm hiểu `file_get_contents()` đọc gì và dữ liệu đi tới lệnh shell như thế nào |
